@@ -11474,7 +11474,7 @@ export const cssData : CSSDataV1 = {
 			"relevance": 50,
 			"description": "Establishes the origin of transformation for an element.",
 			"restrictions": [
-				"positon",
+				"position",
 				"length",
 				"percentage"
 			]
